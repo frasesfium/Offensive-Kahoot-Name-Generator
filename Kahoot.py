@@ -1,5 +1,3 @@
-import piot
-
 
 def generar_nombre():
     first = random.choice(name)
